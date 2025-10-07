@@ -6,7 +6,7 @@ using System.Net;
 
 //Reference: Reece Waving. 2025. CLDV6212 Azure functions part 2 Azure functions and queues triggers
 // According to Reece Waving (2025), Azure Functions can be triggered by Azure Storage Queues to process messages asynchronously.
-// I implemented this approach in the QueueTriggerFunction to handle background tasks in the application.
+// I implemented this approach in the Function to handle the queues for the function.
 
 namespace RetailFunctions
 {
