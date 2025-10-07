@@ -71,16 +71,8 @@ namespace MVCRetailStore.Controllers
     }
 }
 
-
-
 /*
-Reece Waving. 2025. CLDV6212 ASP.NET MVC & Azure Series - Part 2: Adding Image Uploads with Blob Storage! (Version 2.0) [Source code].
-Available at: <https://youtu.be/CuszKqZvRuM?si=lTfJaqI02wmHcIkh>
-[Accessed 26 August 2025].
-
-
-Reece Waving. 2025. CLDV6212 ASP.NET MVC & Azure Series - Part 4: Mastering Azure File Share! (Version 2.0) [Source code].
-Available at: <https://youtu.be/A-mVVL88oEg?si=sUYFyrY2wQc6Lny0>
-[Accessed 26 August 2025].
-
-*/
+Reece Waving. 2025. CLDV6212 Azure functions part 4 Azure functions and MVC and blobs (Version 2.0) [Source code].
+Available at: <https://youtu.be/r-VksPFfFpE?si=mS1bzTpQk9wf5xZn>
+[Accessed 6 October 2025].
+*
