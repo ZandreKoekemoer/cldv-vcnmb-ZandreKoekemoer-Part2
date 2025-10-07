@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace MVCRetailStore.Controllers
 {
     //Reference: Reece Waving. 2025. CLDV6212 Azure Functions Part 1 Getting the basics out the way  HTTP Trigger
-    // According to Reece Waving (2025), HTTP triggered Azure Functions can be called from MVC controllers to perform CRUD operations.
+    // According to Reece Waving (2025), HTTP triggered Azure Functions can be called from MVC controller.
     // I used this approach in the CustomerController to retrieve and create customer records with Azure Functions.
 
     public class CustomerController : Controller
