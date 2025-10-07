@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Http;
 namespace MVCRetailStore.Controllers
 {
     //Reference: Reece Waving. 2025. CLDV6212 Azure functions part 4 Azure functions and MVC and blobs
-    // According to Reece Waving (2025), Azure Blob Storage can be integrated with MVC controllers to handle file uploads and downloads.
+    // According to Reece Waving (2025), Azure Blob Storage can be integrated with MVC controllers to handle file uploads.
     // I used this approach in the ProductController to upload product images to Azure Blob Storage.
 
     public class ProductController : Controller
