@@ -1,0 +1,50 @@
+﻿@model IEnumerable<MVCRetailStore.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+<h1>Products</h1>
+
+<p><a class="btn btn-success" asp-action="Create">Create New</a></p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.First().ProductName)</th>
+            <th>@Html.DisplayNameFor(m => m.First().Description)</th>
+            <th>@Html.DisplayNameFor(m => m.First().Price)</th>
+            <th>Image</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@item.ImageUrl" alt="@item.ProductName" style="width:100px;height:auto" />
+                    }
+                </td>
+                <td class="text-nowrap">
+                    <a class="btn btn-sm btn-secondary" asp-action="Details" asp-route-partitionKey="@item.PartitionKey" asp-route-rowKey="@item.RowKey">Details</a>
+                    <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-partitionKey="@item.PartitionKey" asp-route-rowKey="@item.RowKey">Edit</a>
+                    <form asp-action="DeleteProduct" method="post" class="d-inline" onsubmit="return confirm('Delete this product?');">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="partitionKey" value="@item.PartitionKey" />
+                        <input type="hidden" name="rowKey" value="@item.RowKey" />
+                        <input type="hidden" name="imageUrl" value="@item.ImageUrl" />
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

@@ -1,0 +1,47 @@
+﻿@model MVCRetailStore.Models.Order
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    var customers = ViewData["Customers"] as List<MVCRetailStore.Models.Customer>;
+    var products = ViewData["Products"] as List<MVCRetailStore.Models.Product>;
+}
+
+<h2>Edit Order</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="RowKey" />
+    <input type="hidden" asp-for="PartitionKey" />
+
+    <div class="form-group mb-2">
+        <label asp-for="customerId"></label>
+        <select asp-for="customerId" class="form-control"
+                asp-items="@(new SelectList(customers, "RowKey", "customerName", Model.customerId))"></select>
+        <span asp-validation-for="customerId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="productId"></label>
+        <select asp-for="productId" class="form-control"
+                asp-items="@(new SelectList(products, "RowKey", "ProductName", Model.productId))"></select>
+        <span asp-validation-for="productId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="orderQuantity"></label>
+        <input asp-for="orderQuantity" class="form-control" type="number" min="1" />
+        <span asp-validation-for="orderQuantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="orderStatus"></label>
+        <input asp-for="orderStatus" class="form-control" />
+        <span asp-validation-for="orderStatus" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\productfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\productfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\orderqueuefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\orderqueuefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\fileuploadfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\fileuploadfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\customerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\customerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\retailstorefunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{606494A7-177F-4DDA-A785-1719018F6758}|RetailStoreFunctions\\RetailStoreFunctions.csproj|solutionrelative:retailstorefunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.5\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcretailstore (2)\\mvcretailstore\\mvcretailstore\\mvcretailstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DEF4DE-6DB0-447B-B96C-32D9854D6D1A}|MVCRetailStore\\MVCRetailStore.csproj|solutionrelative:mvcretailstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUploadFunction.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\FileUploadFunction.cs",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\FileUploadFunction.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\FileUploadFunction.cs",
+              "RelativeToolTip": "RetailStoreFunctions\\FileUploadFunction.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:24:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderQueueFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\OrderQueueFunctions.cs",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\OrderQueueFunctions.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\OrderQueueFunctions.cs",
+              "RelativeToolTip": "RetailStoreFunctions\\OrderQueueFunctions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:44:11.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\ProductEntity.cs",
+              "RelativeToolTip": "RetailStoreFunctions\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:19:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFunction.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\ProductFunction.cs",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\ProductFunction.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\ProductFunction.cs",
+              "RelativeToolTip": "RetailStoreFunctions\\ProductFunction.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:20:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\CustomerEntity.cs",
+              "RelativeToolTip": "RetailStoreFunctions\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:15:28.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerFunction.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\CustomerFunction.cs",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\CustomerFunction.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\CustomerFunction.cs",
+              "RelativeToolTip": "RetailStoreFunctions\\CustomerFunction.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:07:03.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MVCRetailStore\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:31:06.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "MVCRetailStore\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:16:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MVCRetailStore\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:37:57.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCRetailStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:03:24.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "MVCRetailStore\\Services\\TableStorageService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:19:50.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Services\\QueueService.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\QueueService.cs",
+              "RelativeToolTip": "MVCRetailStore\\Services\\QueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:19:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\local.settings.json",
+              "RelativeDocumentMoniker": "RetailStoreFunctions\\local.settings.json",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\RetailStoreFunctions\\local.settings.json",
+              "RelativeToolTip": "RetailStoreFunctions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T12:17:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AzureFileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\AzureFileShareService.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Services\\AzureFileShareService.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\AzureFileShareService.cs",
+              "RelativeToolTip": "MVCRetailStore\\Services\\AzureFileShareService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:17:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\Product.cs",
+              "RelativeToolTip": "MVCRetailStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:00:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\Order.cs",
+              "RelativeToolTip": "MVCRetailStore\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:26:18.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Models\\FileModel.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\FileModel.cs",
+              "RelativeToolTip": "MVCRetailStore\\Models\\FileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:26:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Models\\Customer.cs",
+              "RelativeToolTip": "MVCRetailStore\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:43:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCRetailStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:28:09.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Files\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Files\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Files\\Index.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Files\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:33:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:31:14.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:34:40.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:56:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Program.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Program.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Program.cs",
+              "RelativeToolTip": "MVCRetailStore\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:20:26.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCRetailStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\appsettings.json",
+              "RelativeToolTip": "MVCRetailStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T07:08:19.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Services\\FunctionService.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\FunctionService.cs",
+              "RelativeToolTip": "MVCRetailStore\\Services\\FunctionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:58:07.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Services\\BlobService.cs",
+              "RelativeToolTip": "MVCRetailStore\\Services\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:19:14.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:41:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:16:13.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:16:33.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:15:58.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\zandr\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.5\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.5\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\zandr\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.5\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.5\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-05T14:05:17.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:15:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:15:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:37:18.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAABhwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T15:19:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAOBvwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:12:17.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:13:42.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAOBvwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:14:56.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:13:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T16:00:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCRetailStore (2)\\MVCRetailStore\\MVCRetailStore\\MVCRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T15:58:06.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

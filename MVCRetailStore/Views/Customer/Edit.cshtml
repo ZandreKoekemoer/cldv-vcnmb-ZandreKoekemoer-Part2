@@ -1,0 +1,36 @@
+﻿@model MVCRetailStore.Models.Customer
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+<h2>Edit Customer</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="RowKey" />
+    <input type="hidden" asp-for="PartitionKey" />
+
+    <div class="form-group">
+        <label asp-for="customerName"></label>
+        <input asp-for="customerName" class="form-control" />
+        <span asp-validation-for="customerName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="customerEmail"></label>
+        <input asp-for="customerEmail" class="form-control" />
+        <span asp-validation-for="customerEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="password"></label>
+        <input asp-for="password" type="password" class="form-control" />
+        <span asp-validation-for="password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

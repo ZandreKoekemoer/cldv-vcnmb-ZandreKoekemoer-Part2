@@ -1,0 +1,17 @@
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\MVCRetailStore.exe
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\MVCRetailStore.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\MVCRetailStore.deps.json
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\MVCRetailStore.runtimeconfig.json
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\MVCRetailStore.pdb
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Azure.Data.Tables.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Files.Shares.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Queues.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\zandr\OneDrive\Documents\Schoolwork\MVCRetailStore (2)\MVCRetailStore\MVCRetailStore\MVCRetailStore\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll

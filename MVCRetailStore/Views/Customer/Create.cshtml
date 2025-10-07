@@ -1,0 +1,35 @@
+﻿@model MVCRetailStore.Models.Customer
+
+@{
+    ViewData["Title"] = "Add Customer";
+}
+
+<h1>Add Customer</h1>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="customerName" class="form-label"></label>
+        <input asp-for="customerName" class="form-control" />
+        <span asp-validation-for="customerName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="password" class="form-label"></label>
+        <input asp-for="password" class="form-control" type="password" />
+        <span asp-validation-for="password" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="customerEmail" class="form-label"></label>
+        <input asp-for="customerEmail" class="form-control" />
+        <span asp-validation-for="customerEmail" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="customerAddress" class="form-label"></label>
+        <input asp-for="customerAddress" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="customerPhone" class="form-label"></label>
+        <input asp-for="customerPhone" class="form-control" />
+        <span asp-validation-for="customerPhone" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Customer</button>
+</form>
